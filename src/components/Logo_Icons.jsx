@@ -29,7 +29,8 @@ const LogoFooter = () => {
         <img
             src={Logo_footer}
             alt="Logo_digitalStore"
-            style={{ width: '253px', height: '44px' }} />
+            style={{ width: '253px', height: '44px' }} 
+        />
     )
 }
 

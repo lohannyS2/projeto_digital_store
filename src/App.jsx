@@ -1,15 +1,10 @@
-import React from "react";
-import Header from "./components/Header" 
-import Footer from "./components/Footer"
+import "./index.css"
+import Paths from './Routes/Paths'
 
 const App = () => {
     return (
-        <div>
-            <Header />
-
-        
-        </div>
-    )
+        <Paths />
+    );
 }
 
-export default App;
+export default App
